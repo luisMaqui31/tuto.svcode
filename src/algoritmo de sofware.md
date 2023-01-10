@@ -1,6 +1,6 @@
 Cuando el software de computadora triunfa (al satisfacer las necesidades de las personas
 que lo usan, trabajar sin fallos durante largos periodos, será fácil de modificar e incluso
-más fácil de usar) puede y debe cambiar las cosas a fin de mejorar. Pero cuando el software fracasa (cuando sus usuarios no están satisfechos, es proclive al error, es difícil de cambiar
+más fácil de usar) puede y debe cambiar las cosas a fin de mejorar. Pero` cuando el software fracasa (cuando sus usuarios no están satisfechos, es proclive al error, es difícil de cambiar
 e incluso más difícil de usar) pueden ocurrir, y ocurren, cosas malas. Todo mundo quiere construir software que haga mejor las cosas y que evite las malas que acechan en la sombra de los
 esfuerzos fallidos. Para triunfar, se necesita disciplina al momento de diseñar y construir el
 software. Es necesario un enfoque de ingeniería.
